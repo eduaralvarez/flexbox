@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.vienvenido {
+    text-align: center;
+    margin: 20px 0;
+    color: #000;
+    background-color:rgb(221, 221, 221);
+    height: 20vh;
+    margin-top: -30px;
+}
+
+.vienvenido h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: black;
+    margin-top: 20px;
+    padding-top:60px ;
+} 
+
+.navegacion {
+    background-color: rgb(145, 145, 145);
+    width: 20%;
+    margin-top: -20px;
+    padding: 200px;
+}
+
+.navegacion p {
+   margin-top: -200px;
+   margin-left: -192px;
+}
+
+.titulo{
+    background-color: grey;
+    width: 40%;
+    margin-left: 20.8%;
+    margin-top: -400px;
+    padding: 172.1px;
+    padding: 200px;
+}
+
+.titulo h1 {
+    margin-top: -194px;
+    margin-left: -178px;
+ 
+}
+
+.titulo p {
+    margin-top: 10px;
+    margin-left: -178px;
+    color: black;
+}
+
+.columna{
+    background-color: rgb(145, 145, 145);
+    width: 39%;
+    margin-left: 1167px;
+    margin-top: -400px;
+    padding: 199px;
+}
+
+.columna p {
+    margin-top: -191px;
+    margin-left: -192px;
+}
+
+.footer{
+    background-color: rgb(221, 221, 221);
+    padding: 20PX;
+}
+
+.footer p{
+    margin-left: 900px;
+}

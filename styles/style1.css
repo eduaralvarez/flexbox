@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section img{
+    margin-top: 200px;
+    margin-left: 200px;
+   
+}
+
+section ul{
+    display: flex;
+    list-style: none;
+    margin-top: -40px;
+    padding: 0; 
+    margin-left: 400px;
+
+}
+
+section ul li{
+    margin: 0 30px;
+     color: grey;
+}
+
+.idiomas {
+    display: flex;
+    margin-top: -20px;
+    margin-left: 950px;
+}
+
+.idiomas button {
+    margin: 0 10px;
+    padding: 5px 10px;
+    background-color: grey;
+}
